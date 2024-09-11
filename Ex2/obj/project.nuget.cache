@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cdOsMnJ3CzFlmM45+ZnBwIjRZ/aF5tJBE8WY1jSfv4bh9kMEi0YdXINVxHhHpUjxzTVHbTZZEopWqHOA2knSHg==",
+  "dgSpecHash": "31Vns2tvGV++Jm5kLb8b2LGMC1elUMIXY3yytyTQy3fThC81wHzkLBhKeYUOu6PfdEpKQ9LwgICgZzLgNklyfw==",
   "success": true,
   "projectFilePath": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\Ex2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\diogo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Faturamento>
+	<Estado Nome="SP" Valor="67836.43" />
+	<Estado Nome="RJ" Valor="36678.66" />
+	<Estado Nome="MG" Valor="29229.88" />
+	<Estado Nome="ES" Valor="27165.48" />
+	<Estado Nome="Outros" Valor="19849.53" />
+</Faturamento>
