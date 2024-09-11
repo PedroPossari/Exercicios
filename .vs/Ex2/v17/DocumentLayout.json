@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|c:\\visual_studio22\\estudo\\udemy\\poo\\ex2\\ex2\\fibonaccichecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|solutionrelative:ex2\\fibonaccichecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FibonacciChecker.cs",
+              "DocumentMoniker": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\FibonacciChecker.cs",
+              "RelativeDocumentMoniker": "Ex2\\FibonacciChecker.cs",
+              "ToolTip": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\FibonacciChecker.cs",
+              "RelativeToolTip": "Ex2\\FibonacciChecker.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:53:25.236Z",
+              "EditorCaption": ""
             }
           ]
         }
