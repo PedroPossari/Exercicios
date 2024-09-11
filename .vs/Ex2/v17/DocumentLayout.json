@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|c:\\visual_studio22\\estudo\\udemy\\poo\\ex2\\ex2\\faturamento.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|solutionrelative:ex2\\faturamento.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|c:\\visual_studio22\\estudo\\udemy\\poo\\ex2\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|c:\\visual_studio22\\estudo\\udemy\\poo\\ex2\\ex2\\stringinverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|solutionrelative:ex2\\stringinverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|c:\\visual_studio22\\estudo\\udemy\\poo\\ex2\\ex2\\faturamento.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|solutionrelative:ex2\\faturamento.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{834C0C59-5FC5-4084-9C95-3D64702C0C25}|Ex2\\Ex2.csproj|c:\\visual_studio22\\estudo\\udemy\\poo\\ex2\\ex2\\invoicing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,25 +37,38 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\Program.cs",
-              "RelativeDocumentMoniker": "Ex2\\Program.cs",
-              "ToolTip": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\Program.cs",
-              "RelativeToolTip": "Ex2\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAawBwAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:58:41.343Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringInverter.cs",
+              "DocumentMoniker": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\StringInverter.cs",
+              "RelativeDocumentMoniker": "Ex2\\StringInverter.cs",
+              "ToolTip": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\StringInverter.cs",
+              "RelativeToolTip": "Ex2\\StringInverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:08:18.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2\\Program.cs",
+              "ToolTip": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\Program.cs",
+              "RelativeToolTip": "Ex2\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:58:41.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Faturamento.xml",
               "DocumentMoniker": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\Faturamento.xml",
               "RelativeDocumentMoniker": "Ex2\\Faturamento.xml",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Invoicing.cs",
               "DocumentMoniker": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\Invoicing.cs",
               "RelativeDocumentMoniker": "Ex2\\Invoicing.cs",
@@ -72,12 +89,11 @@
               "RelativeToolTip": "Ex2\\Invoicing.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:57:53.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T18:57:53.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StringChecker.cs",
               "DocumentMoniker": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\StringChecker.cs",
               "RelativeDocumentMoniker": "Ex2\\StringChecker.cs",
@@ -85,12 +101,11 @@
               "RelativeToolTip": "Ex2\\StringChecker.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:56:31.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T18:56:31.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FibonacciChecker.cs",
               "DocumentMoniker": "C:\\visual_studio22\\Estudo\\udemy\\POO\\Ex2\\Ex2\\FibonacciChecker.cs",
               "RelativeDocumentMoniker": "Ex2\\FibonacciChecker.cs",
@@ -98,8 +113,7 @@
               "RelativeToolTip": "Ex2\\FibonacciChecker.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T18:53:25.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T18:53:25.236Z"
             }
           ]
         }
